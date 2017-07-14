@@ -3,4 +3,4 @@ git is free software.
 reedit again
 thanks
 test stage
-creating a new branch is quick;
+creating a new branch is quick and simple;
